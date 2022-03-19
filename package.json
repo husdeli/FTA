@@ -1,8 +1,0 @@
-{
-  "name": "FTA",
-  "version": "0.0.1",
-  "main": "index.ts",
-  "repository": "https://github.com/husdeli/FTA.git",
-  "author": "Dzmitry Karaleu",
-  "license": "MIT"
-}
